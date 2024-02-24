@@ -81,6 +81,7 @@ window#waybar.chromium {
 #tray,
 #mode,
 #idle_inhibitor,
+#custom-powerprofile,
 #mpd {
     padding: 0 10px;
     color: #ffffff;
@@ -254,4 +255,16 @@ label:focus {
 
 #keyboard-state > label.locked {
     background: rgba(0, 0, 0, 0.2);
+}
+
+#custom-powerprofile.power-saver {
+    background-color: #66cc99;
+}
+
+#custom-powerprofile.balanced {
+    background-color: #90b1b1;
+}
+
+#custom-powerprofile.performance {
+    background-color: #d34835;
 }
