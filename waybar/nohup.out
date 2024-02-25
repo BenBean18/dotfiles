@@ -1,0 +1,4 @@
+[2024-02-24 21:36:48.595] [info] Using configuration file /home/bean/.config/waybar/config
+[2024-02-24 21:36:48.596] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2024-02-24 21:36:48.596] [info] Using CSS file /home/bean/.config/waybar/style.css
+[2024-02-24 21:36:48.597] [error] style.css:9:4Expected semicolon
