@@ -16,6 +16,6 @@ elif this_profile == "performance":
 else:
     text = this_profile
 
-j = "{" + f""""text": \"{text} \", "tooltip": "", "class": "{this_profile}" """ + "}"
+j = "{" + f""""text": \"{text}\", "tooltip": "", "class": "{this_profile}" """ + "}"
 
 print(j)

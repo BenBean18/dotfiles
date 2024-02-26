@@ -163,7 +163,6 @@
     },
     "custom/powerprofile": {
         "format": "{}",
-        "max-length": 10,
         "interval": 5, // Remove this if your script is endless and write in loop
         "exec": "$HOME/.config/waybar/get_profile.py",
         "return-type": "json"
